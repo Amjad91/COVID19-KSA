@@ -242,6 +242,7 @@ text-align: center;
 }
 ul {
   display: block;
+  width: 80%
   padding: 30px;
   text-align: left;
   color: rgb(177, 178, 179);
