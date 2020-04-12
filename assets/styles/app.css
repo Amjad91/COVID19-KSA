@@ -275,7 +275,7 @@ section {
   margin: auto;
 }
 .app-info {
-  width: 50%;
+  width: 800px;
   margin: auto;
 }
 .app-info img {
@@ -322,7 +322,7 @@ display: inline-block;
   margin: auto;
   /* margin-right: 90px;
   margin-left: 90px; */
-  width: 60%;
+  width: 70%;
  
 }
 .footer {
@@ -505,13 +505,3 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 
-@media screen and (min-width: 800px) {
-  .table-fixed table {
-  width: 100%;}
-}
-
-/* if the browser window is at least 1000px-s wide: */
-@media screen and (min-width: 1000px) {
-  .table-fixed table {
-  width: 100%;}
-}
