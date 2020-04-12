@@ -94,8 +94,7 @@ h5 {
 
 table {
 margin: 0 auto;
-align-content: center;
-text-align: left;
+text-align: center;
 }
 
 .promos {
@@ -464,7 +463,7 @@ img {vertical-align: middle;}
 .table-fixed thead th {
   height: 40px;
   font-size: 90%;
- /*text-align: left;*/
+  text-align: left;
 }
  
 .table-fixed thead{
