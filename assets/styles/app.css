@@ -474,13 +474,13 @@ img {vertical-align: middle;}
 
 
 .table-fixed tbody td, thead th {
-  width: 29%;
+  width: 25%;
   float: left;
   height: 50px;
   padding: 5px;
 }
 .table-fixed thead th {
-  font-size: 90%;
+  font-size: 87%;
   text-align: left;
   padding-left: 0px;
 
