@@ -104,7 +104,7 @@ text-align: center;
   background-color:rgb(255, 255, 255);
 }
 .promo {
-  width: 132px;
+  width: 125px;
   height: 160px;
   background:#fdfeff ;
   color: #1e836c;
@@ -112,7 +112,7 @@ text-align: center;
   box-shadow: 2px 2px 20px  rgba(243, 243, 243, 0.8);
   margin: 0.8%;
   border-radius: 10px;
-  font-size: 90%;
+  font-size: 85%;
   position: relative;
   border-width: 0.5%;
   border-color: rgb(243, 243, 243);
