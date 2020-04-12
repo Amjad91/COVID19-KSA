@@ -474,7 +474,7 @@ img {vertical-align: middle;}
 
 
 .table-fixed tbody td, thead th {
-/*   width: 25%; */
+  width: 29%;
   float: left;
   height: 50px;
   padding: 5px;
